@@ -1,0 +1,11 @@
+E:\Documents\CodingStuff\ResumeProjects\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+E:\Documents\CodingStuff\ResumeProjects\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+E:\Documents\CodingStuff\ResumeProjects\NoteTakingApp\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+E:\Documents\CodingStuff\ResumeProjects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+E:\Documents\CodingStuff\ResumeProjects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.SuggestedBindingRedirects.cache
+E:\Documents\CodingStuff\ResumeProjects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.NoteTaker.resources
+E:\Documents\CodingStuff\ResumeProjects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+E:\Documents\CodingStuff\ResumeProjects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+E:\Documents\CodingStuff\ResumeProjects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+E:\Documents\CodingStuff\ResumeProjects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+E:\Documents\CodingStuff\ResumeProjects\NoteTakingApp\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
